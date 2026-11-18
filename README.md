@@ -1,10 +1,3 @@
-# North Star Bakery — Touchstone 3
+# North Star Bakery — Touchstone 4
 
-Four-page responsive student demonstration website. Open `index.html` in a browser.
-
-## Files
-- `index.html`, `products.html`, `about.html`, `contact.html`
-- `style.css` (shared mobile-first styles, Flexbox and media query)
-
-## Important
-The contact form is a nonfunctional demo; it does not submit information. Bakery descriptions are illustrative and should be checked against the original Touchstone 2 client brief before submission. No original Touchstone 2 files were available for merging.
+Continues the Touchstone 3 website. The Products page now offers saved favorites; the Contact page has JavaScript validation and remembers the visitor name. Both features use localStorage. This is a student demonstration; messages are not sent.
